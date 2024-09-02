@@ -26,4 +26,4 @@
 - **External CSS libraries** to enhance the design and functionality, ensuring the website looks professional and is easy to navigate.
 
 #### Intrinsic Value:
-This project serves as an excellent demonstration of your ability to replicate complex, real-world websites using fundamental web development tools. It showcases your skills in front-end development, attention to detail, and understanding of user interface design principles. Additionally, it reflects your ability to create responsive, user-friendly web applications that maintain consistency with established brands.
+This project serves as an excellent demonstration of my ability to replicate complex, real-world websites using fundamental web development tools. It showcases my skills in front-end development, attention to detail, and understanding of user interface design principles. Additionally, it reflects my ability to create responsive, user-friendly web applications that maintain consistency with established brands.
